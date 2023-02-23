@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Este vai ser o portfolio da Elisa DJ
+          DJ ELISA
         </p>
         <a
           className="App-link"
